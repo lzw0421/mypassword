@@ -1,0 +1,8 @@
+githup
+
+
+git 解决不支持密码验证的解决办法
+
+使用token， 使用方法
+格式 ：git remote set-url origin https://<你的令牌>@github.com/<你的git用户名>/<要修改的仓库名>.git
+例子：git remote set-url origin https://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@github.com/lzw0421/tips.git

@@ -1,0 +1,18 @@
+华为云服务器地址 ：139.9.74.50
+密码：Aa@123456
+mysql :  Aa@123456
+
+
+
+github:
+账号  lzw0421 
+密码  li@980421
+令牌名 token    
+令牌   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
+
+惠普电脑 
+mysql 密码:Qwe123456
+
+
+
+
